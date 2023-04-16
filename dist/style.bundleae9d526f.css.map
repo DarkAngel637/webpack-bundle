@@ -1,0 +1,1 @@
+{"version":3,"file":"style.bundleae9d526f.css","mappings":";;yGACA,MACE,cAAF,CACE,WACE,iBACJ","sources":["webpack://node-starter/./style.scss"],"sourcesContent":["// style.scss 打包出来的东西\r\n#root {\r\n  font-size: 33px;\r\n  > .ban {\r\n    background: purple;\r\n  }\r\n}\r\n/* #root > .ban {\r\n  background: red;\r\n} */\r\n"],"names":[],"sourceRoot":""}

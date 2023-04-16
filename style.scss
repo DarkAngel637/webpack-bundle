@@ -1,0 +1,10 @@
+// style.scss 打包出来的东西
+#root {
+  font-size: 33px;
+  > .ban {
+    background: purple;
+  }
+}
+/* #root > .ban {
+  background: red;
+} */
